@@ -1,4 +1,4 @@
-package books;
+package repositories;
 
 import com.google.inject.Inject;
 import com.google.inject.Singleton;
