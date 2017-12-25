@@ -8,6 +8,8 @@ import java.util.*;
 
 import play.db.*;
 
+import models.Book;
+
 @Singleton
 public class BookRepository {
     @Inject Database database;
